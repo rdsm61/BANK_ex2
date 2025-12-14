@@ -1,0 +1,6 @@
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\bin\Debug\Banking.dll
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\bin\Debug\Banking.pdb
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\obj\Debug\Banking.dll
+D:\documents\study\comp\c_sharp_dev\c_sharp\home_work\Lab11\EXERCISE2\STARTER\Banking\obj\Debug\Banking.pdb
